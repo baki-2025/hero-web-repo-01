@@ -28,6 +28,7 @@ body, html {
 .signup-btn {
   background-color: #4e4eff;
   color: white;
+  width: 100px;
   border: none;
   padding: 10px 18px;
   border-radius: 6px;
@@ -53,6 +54,7 @@ body, html {
 }
 
 .focus-btn {
+    width: 160px;
   background-color: #4e4eff;
   color: white;
   border: none;
@@ -88,6 +90,7 @@ body, html {
 }
 
 .preview-btn {
+    width: 200px;
   padding: 12px 25px;
   background-color: blue;
   color: white;
@@ -195,6 +198,7 @@ font-size: 15px;
 }
 
 .cta-btn {
+    width: 220px;
   padding: 14px 30px;
   background-color: #0014c8;
   color: white;
@@ -243,6 +247,7 @@ font-size: 15px;
 }
 
 .form-group label {
+    text-align: justify;
     display: block;
     margin-bottom: 8px;
     font-weight: bold;
