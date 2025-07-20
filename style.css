@@ -278,3 +278,45 @@ button {
 button:hover {
     background-color: #5a4bb3; /* Darker purple on hover */
 }
+.footer {
+  background-color: #000; /* Dark background */
+  color: #bbb;
+  text-align: center;
+  padding: 60px 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.footer-logo {
+  font-size: 80px;
+  color: #4e4eff;
+  margin-bottom: 30px;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.footer-text {
+  font-size: 18px;
+  color: #c2c2ff;
+  max-width: 700px;
+  margin: 0 auto 40px;
+  line-height: 1.6;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.footer-nav a {
+  color: #c2c2ff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.footer-nav a:hover {
+  color: #ffffff;
+}
