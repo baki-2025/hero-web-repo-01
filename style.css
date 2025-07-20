@@ -295,7 +295,7 @@ button:hover {
 }
 
 .footer-text {
-  font-size: 18px;
+  font-size: 15px;
   color: #c2c2ff;
   max-width: 700px;
   margin: 0 auto 40px;
@@ -312,7 +312,7 @@ button:hover {
 .footer-nav a {
   color: #c2c2ff;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 12px;
   font-weight: 500;
   transition: color 0.3s ease;
 }
